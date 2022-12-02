@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "https://via.placeholder.com/350x500/0000FF/808080 ?Text=Digital.com",
+      "alt": "img1"
+    },
+    {
+      "id": 2,
+      "img": "https://via.placeholder.com/350x500/FF0000/FFFFFF?Text=Down.com",
+      "alt": "img2"
+    },
+    {
+      "id": 3,
+      "img": "https://via.placeholder.com/350x500/FFFF00/000000?Text=WebsiteBuilders.com",
+      "alt": "img3"
+    },
+    {
+      "id": 4,
+      "img": "https://via.placeholder.com/350x500/000000/FFFFFF/?text=IPaddress.net",
+      "alt": "img4"
+    }
+  ]
+}
