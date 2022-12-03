@@ -9,8 +9,8 @@ export const getDataSuccess = (payload) => ({
 });
 
 
-// const url = "https://chiranjit-fakeserver.herokuapp.com/data";
-const url = "http://localhost:8080/data";
+const url = "https://my-json-server.typicode.com/Chiranjit34/fake-api/data";
+// const url = "http://localhost:8080/data";
 
 export const getData = (dispatch) => {
   fetch(url)

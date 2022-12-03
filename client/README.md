@@ -14,7 +14,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `json-server --watch db.json --port 8080`
-
-Launches the db.json .\
-You are fetching json data from redux, so you have to start the json server to see the data.
